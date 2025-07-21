@@ -1,13 +1,1 @@
-{
-  "type": "service_account",
-  "project_id": "monitoringbanjiramikom",
-  "private_key_id": "badf97e780251596aa44f258572bb88a52a205ce",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCiUII9QfpOF3Qf\njCq77/zP2UoR5yDoFZ3VwyWfeZrle+k16WPl76q3B48ugqG1XPoVHcBTVyfuGWvS\nUvLschiVSWk612OaJX7DQh6avmgUn3BdoBknvH72uQGv4m+qM7ZA+aZOMGh4hxZ7\nJocqtZaYN6QoE3UQ/rN853A5benAgcZP7qgGrpXwmBLRDbHYlzQi0or89+MWVjhl\n4xNkloErsdozpVTQw7HjbJTeYjdf60zs9k3+2vCfia12GiSUda9l0Kn24WLv+ZFT\n40khYXOaVU/68dLga9OcBDzp8EM2s8Pp+z5vN1fauBX7Ik2M2NTQdT2FrG1K7Dq1\nlSrixECPAgMBAAECggEACYOGiWil7zsuB0YD9eK/LWpNuSGUVYYkK4oLWSmbi/qT\nVMxKmrOi4fouHkpx3VuHHQMSvs/Lpge/a3iJMeq4yNH2D7OIQa9o8AZJckXZe+ah\n2MWwM8Vh+7wkU9bbN11d6rkMp7tBTwSRVhk6sE+BytztYPFNr01T3+0A2vI3p/Iw\nvIcKGT8Cr3pgp17Rt3CkTLsyTvoo0kDcaMW+8s12QFtDbXZjSffqsgQ3Rh7DxoGk\n7Dbe+P7WKetfBJnl7udu0dUo8enotKVgQ9D/X1Ls3bIsR69ek1x8JEA3+2tkhRcq\nUgbUJWvadH1+pVQIH7IW3jKCf2nb/CorXBhgvKMxoQKBgQDZge4ZQdHoXsLJqcNm\ne0Cjni/am+VPb0PD7F1vHBFlA2WMg48WHrwVQM5cFQMgOQpx1ZyRPo/lTGQTuqqj\nyvsgRjeqvuXrMhc4mSy2F+KrY+xy/lyOSDLNKWQYwu/ZOBZMxU+0VHKqELWmKiKU\nJ/sBb2A1yQCveH7q94nhONYCLQKBgQC/ChXMJp7tHXJ3gn5hsfOYEYJR3fnMfoeR\n9J/fmpjxpqRgTLYjqKnpR5xykP0K5MMgXY/n8e7dmfQLS2nTMZ5BBZBIDh4gIpls\nHBs3Oa5O+AGn/gc2BIOy9gXHf15AjfbOlsaskJgUky/9W1mj/1T9vtMNHjaT7H8d\nYvtqYn5PKwKBgEHgOUXLCpEvSh2b3gOG5t/nRCUYvE3frA2F5BKH1LjcW4BARDD1\n5A8nzphTANxcik5J3R6cbSaMiW70RURQcNioi6maIbanOCM7OTB5cXxpSi7V3SB2\nu3Qpyhg5yjzm4NIlnGtIfGYHo4yNDGYE6d/YZLJFi4CZpQ7zI/5joWWNAoGAQF2k\nhHlKuLdgNtX3wPDVExprHyw8GuNSyCF0sEEFYP31iiCuiYstXFTtaEhjiYUUHVaI\nwuxnv7A8YoXRLQAdwuid+TkQe2FM8fjyToQXr7Gt1S0ovtF8khKEVfgbCIMMcgSp\nAcFiDCSfWayqoi/IMgpWT6grWWGoXn1YGjr/NasCgYBif2AcObKCSVm3KHvQvIsC\nQhzdmqjF1UO/h7cr8jpnqdZgmoVvn98/7y8HFSIGpnWJ4Dm9FxYbFEz4/dG3IS1i\nUyoWQlIgepoibx32/Ux9vdMq0FXPYAcvGqgQRRBW6xqfVoDD/VxMzQlmNWN46E9E\nJTzCEis3RbOp1f3O7qnR4Q==\n-----END PRIVATE KEY-----\n",
-  "client_email": "firebase-adminsdk-fbsvc@monitoringbanjiramikom.iam.gserviceaccount.com",
-  "client_id": "103782771422435334109",
-  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-  "token_uri": "https://oauth2.googleapis.com/token",
-  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fbsvc%40monitoringbanjiramikom.iam.gserviceaccount.com",
-  "universe_domain": "googleapis.com"
-}
+//Cari di Firebase//
